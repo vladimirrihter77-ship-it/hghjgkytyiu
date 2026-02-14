@@ -1,1 +1,0 @@
-worker: python Beauty_salon_bot.py
